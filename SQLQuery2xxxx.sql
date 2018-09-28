@@ -1,0 +1,1 @@
+select * from ostatq where tovar=49757 and company=122
